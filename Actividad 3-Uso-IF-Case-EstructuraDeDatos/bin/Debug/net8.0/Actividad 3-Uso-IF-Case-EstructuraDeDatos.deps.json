@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Actividad 3-Uso-IF-Case-EstructuraDeDatos/1.0.0": {
+        "runtime": {
+          "Actividad 3-Uso-IF-Case-EstructuraDeDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Actividad 3-Uso-IF-Case-EstructuraDeDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

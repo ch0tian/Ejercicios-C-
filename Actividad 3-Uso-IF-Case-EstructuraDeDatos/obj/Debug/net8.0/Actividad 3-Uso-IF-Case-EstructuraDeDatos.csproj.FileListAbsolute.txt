@@ -1,0 +1,15 @@
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\bin\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.exe
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\bin\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.deps.json
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\bin\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.runtimeconfig.json
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\bin\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.dll
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\bin\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.pdb
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.AssemblyInfo.cs
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.sourcelink.json
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.dll
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\refint\Actividad 3-Uso-IF-Case-EstructuraDeDatos.dll
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.pdb
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\Actividad 3-Uso-IF-Case-EstructuraDeDatos.genruntimeconfig.cache
+C:\Users\chram\source\repos\Actividad 3-Uso-IF-Case-EstructuraDeDatos\obj\Debug\net8.0\ref\Actividad 3-Uso-IF-Case-EstructuraDeDatos.dll
